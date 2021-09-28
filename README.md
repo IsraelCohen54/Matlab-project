@@ -1,2 +1,0 @@
-# Matlab-project
-Competing Population
