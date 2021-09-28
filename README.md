@@ -1,3 +1,2 @@
 "# Matlab-project" 
-"# Bioligical-calculation" 
-"# Biological-calculation-algorithms" 
+Experimenting with species growth with or without competition, known factors and more.
