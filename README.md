@@ -1,4 +1,3 @@
 "# Matlab-project" 
-Experimenting with species growth with or without competition, known factors and more.
-"# Biological-calculation-algorithms" 
-"# Biological-calculation-algorithms" 
+
+Project that use various matlab methods, research species growth with competition, without, evaluating parameters and more.
